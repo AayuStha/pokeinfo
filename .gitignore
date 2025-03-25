@@ -11,7 +11,6 @@ out/
 build/
 *.js
 *.js.map
-*.d.ts
 *.d.ts.map
 
 # TypeScript cache
