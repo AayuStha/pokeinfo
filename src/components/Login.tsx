@@ -100,7 +100,7 @@ const Login: React.FC = () => {
         </form>
 
         <p className="mt-6 text-center text-sm text-indigo-200">
-          Demo credentials: admin / hello
+          Demo credentials: admin / pokemon123
         </p>
       </div>
     </div>
